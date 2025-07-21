@@ -1,0 +1,7 @@
+{
+  "name": "@pumpmind/api",
+  "version": "0.4.2",
+  "main": "dist/server.js",
+  "dependencies": { "@pumpmind/core": "0.4.2", "express": "^4.21.0", "ws": "^8.18.0" },
+  "scripts": { "build": "tsc", "start": "node dist/server.js" }
+}

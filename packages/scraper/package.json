@@ -1,0 +1,7 @@
+{
+  "name": "@pumpmind/scraper",
+  "version": "0.4.2",
+  "main": "dist/index.js",
+  "dependencies": { "@pumpmind/core": "0.4.2" },
+  "scripts": { "build": "tsc" }
+}

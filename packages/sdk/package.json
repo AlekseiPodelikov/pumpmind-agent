@@ -1,0 +1,6 @@
+{
+  "name": "@pumpmind/sdk",
+  "version": "0.4.2",
+  "main": "dist/index.js",
+  "scripts": { "build": "tsc" }
+}

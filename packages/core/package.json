@@ -1,0 +1,7 @@
+{
+  "name": "@pumpmind/core",
+  "version": "0.4.2",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": { "build": "tsc", "test": "node --test dist/**/*.test.js" }
+}

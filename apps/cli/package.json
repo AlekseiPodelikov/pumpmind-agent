@@ -1,0 +1,12 @@
+{
+  "name": "@pumpmind/cli",
+  "version": "0.4.2",
+  "bin": { "pumpmind": "dist/index.js" },
+  "dependencies": {
+    "@pumpmind/agent": "0.4.2",
+    "@pumpmind/api": "0.4.2",
+    "@pumpmind/scraper": "0.4.2",
+    "@pumpmind/core": "0.4.2"
+  },
+  "scripts": { "build": "tsc" }
+}
