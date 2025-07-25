@@ -2,3 +2,4 @@
 {"date": "2025-07-22", "msg": "feat: tune narrative scorer"}
 {"date": "2025-07-23", "msg": "fix: ws reconnect"}
 {"date": "2025-07-24", "msg": "docs: architecture"}
+{"date": "2025-07-25", "msg": "refactor: signal router"}
