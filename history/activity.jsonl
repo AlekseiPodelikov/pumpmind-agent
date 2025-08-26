@@ -8,3 +8,4 @@
 {"date": "2025-07-30", "msg": "fix: ws reconnect"}
 {"date": "2025-08-05", "msg": "docs: architecture"}
 {"date": "2025-08-25", "msg": "refactor: signal router"}
+{"date": "2025-08-26", "msg": "chore: sync activity log"}
