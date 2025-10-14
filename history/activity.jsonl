@@ -25,3 +25,4 @@
 {"date": "2025-10-09", "msg": "refactor: signal router"}
 {"date": "2025-10-10", "msg": "chore: sync activity log"}
 {"date": "2025-10-11", "msg": "feat: tune narrative scorer"}
+{"date": "2025-10-14", "msg": "fix: ws reconnect"}
