@@ -36,3 +36,4 @@
 {"date": "2025-11-08", "msg": "chore: sync activity log"}
 {"date": "2025-11-24", "msg": "feat: tune narrative scorer"}
 {"date": "2025-11-25", "msg": "fix: ws reconnect"}
+{"date": "2025-11-26", "msg": "docs: architecture"}
