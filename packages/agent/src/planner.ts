@@ -38,3 +38,5 @@ export async function planForToken(token: PumpToken): Promise<AgentDecision> {
 // 2025-12-03
 
 // 2026-01-27
+
+// 2026-02-04
