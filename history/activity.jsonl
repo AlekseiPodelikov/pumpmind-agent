@@ -61,3 +61,4 @@
 {"date": "2026-03-10", "msg": "chore: sync activity log"}
 {"date": "2026-03-11", "msg": "feat: tune narrative scorer"}
 {"date": "2026-03-12", "msg": "fix: ws reconnect"}
+{"date": "2026-03-13", "msg": "docs: architecture"}
