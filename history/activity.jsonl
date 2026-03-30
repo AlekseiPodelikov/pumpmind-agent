@@ -64,3 +64,4 @@
 {"date": "2026-03-13", "msg": "docs: architecture"}
 {"date": "2026-03-21", "msg": "refactor: signal router"}
 {"date": "2026-03-28", "msg": "chore: sync activity log"}
+{"date": "2026-03-30", "msg": "feat: tune narrative scorer"}
