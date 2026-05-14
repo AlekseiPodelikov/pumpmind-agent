@@ -77,3 +77,4 @@
 {"date": "2026-04-25", "msg": "feat: tune narrative scorer"}
 {"date": "2026-04-28", "msg": "fix: ws reconnect"}
 {"date": "2026-05-06", "msg": "docs: architecture"}
+{"date": "2026-05-14", "msg": "refactor: signal router"}
