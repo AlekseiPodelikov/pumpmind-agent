@@ -85,3 +85,4 @@
 {"date": "2026-05-28", "msg": "refactor: signal router"}
 {"date": "2026-05-29", "msg": "chore: sync activity log"}
 {"date": "2026-05-30", "msg": "feat: tune narrative scorer"}
+{"date": "2026-06-15", "msg": "fix: ws reconnect"}
